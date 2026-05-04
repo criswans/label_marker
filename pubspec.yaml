@@ -10,12 +10,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-#  google_maps_flutter: ^2.14.2
-  google_maps_flutter:
-    git:
-      url: https://github.com/RideMyPark/flutter_packages.git
-      ref: fork-google_maps-2.3.1
-      path: packages/google_maps_flutter/google_maps_flutter
+  google_maps_flutter: ^2.14.2
+#  google_maps_flutter:
+#    git:
+#      url: https://github.com/RideMyPark/flutter_packages.git
+#      ref: fork-google_maps-2.3.1
+#      path: packages/google_maps_flutter/google_maps_flutter
 
 dev_dependencies:
   flutter_test:
